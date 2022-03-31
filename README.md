@@ -6,7 +6,7 @@ Submitted by: Ryan So
 
 Time spent: 4 hours spent in total
 
-Link to project: https://glitch.com/edit/#!/codepath-prework-light-and-sound?path=index.html%3A4%3A26
+Link to project: https://glitch.com/edit/#!/codepath-prework-light-and-sound?path=index.html%3A1%3A0
 
 ## Required Functionality
 
