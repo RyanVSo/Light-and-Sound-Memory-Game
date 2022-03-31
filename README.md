@@ -22,14 +22,12 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [ ] I changed the time that the hint plays for in order to speed up gameplay.
+
 
 ## Video Walkthrough (GIF)
 
